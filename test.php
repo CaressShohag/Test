@@ -17,4 +17,5 @@ function abc($a)
 }
 
 echo "\n".round(4.5);
+echo "This line added for testing";
 ?>
